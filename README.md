@@ -60,6 +60,4 @@ src/
 index.html       Vite HTML entry point and page metadata
 ```
 
-## Learning project
 
-This repository is a customized learning project based on the public [Finance Dashboard UI](https://github.com/AarushAnsh/Finance_Dashboard) reference. The layout, branding, color palette, metadata, and project documentation have been adapted for this repository. Extend it with your own features and be prepared to explain every part you include in a portfolio.
